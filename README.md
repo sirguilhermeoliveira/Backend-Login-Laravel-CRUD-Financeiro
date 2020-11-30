@@ -1,2 +1,11 @@
-# Backend-Login-Laravel-CRUD-Financeiro
-Backend em Laravel com view de Login/Logout e um CRUD financeiro dentro de Despesas / Receitas.
+# laravel-login-crud-financeiro
+
+> Backend do Financeiro com Login e um crud para Despesas e Receitas
+
+## Intalação
+
+``` bash
+# Instala as dependências e abre o servidor
+composer install
+npm install
+php artisan serve
