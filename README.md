@@ -1,6 +1,8 @@
-# laravel-login-crud-financeiro
+# Backend-Login-Laravel-CRUD-Financeiro
 
-> Backend do Financeiro com Login e um crud para Despesas e Receitas
+https://media.giphy.com/media/e5H8SYSOUTRRJFn11s/giphy.gif
+
+> Backend do Financeiro com Login completo, view das Despesas/Receitas e CRUD completo das mesmas.
 
 ## Intalação
 
