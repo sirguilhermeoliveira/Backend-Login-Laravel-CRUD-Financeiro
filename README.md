@@ -1,6 +1,8 @@
 # Backend-Login-Laravel-CRUD-Financeiro
 
-https://media.giphy.com/media/e5H8SYSOUTRRJFn11s/giphy.gif
+![Alt Text](https://media.giphy.com/media/e5H8SYSOUTRRJFn11s/giphy.gif)
+
+![](name-of-giphy.gif)
 
 > Backend do Financeiro com Login completo, view das Despesas/Receitas e CRUD completo das mesmas.
 
